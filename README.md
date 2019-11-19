@@ -8,6 +8,7 @@ It will cover **facotry design pattren** in getting type of iterator and
 
 Here is the [Test Class](https://github.com/shubh007/tree-iterators/tree/master/src/test/java/io/tailf/design/treeiterator/binarytree).
 
+This [question](https://leetcode.com/problems/binary-search-tree-iterator/) was asked in amazon interview also. 
 
 **Tree Used In test (level order traversal):** [1,2,3,4,5,6,7]
 
